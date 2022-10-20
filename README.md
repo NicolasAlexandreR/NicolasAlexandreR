@@ -1,6 +1,6 @@
 - Hi, I’m Nicolas Alexandre 
-- I’m interested in Game Development
-- I’m currently learning Math and Programming
+- I’m interested in Ethical Hacking (Pentest)
+- I’m currently learning Networking and Hardware
 
 <!---
 NicolasAlexandreR/NicolasAlexandreR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
