@@ -1,6 +1,6 @@
 - Hi, I’m Nicolas Alexandre 
 - I’m interested in Ethical Hacking (Pentest)
-- I’m currently learning Networking and Hardware
+- I’m currently learning Networking, Hardware and Web Development
 
 <!---
 NicolasAlexandreR/NicolasAlexandreR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
