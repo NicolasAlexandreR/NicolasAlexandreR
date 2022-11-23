@@ -1,5 +1,5 @@
 - Hi, I’m Nicolas Alexandre 
-- I’m interested in Ethical Hacking (Pentest)
+- I’m interested in... Idk
 - I’m currently learning Networking, Hardware and Web Development
 
 <!---
